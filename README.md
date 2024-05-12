@@ -2,6 +2,8 @@
 This fine-tuned BERT model is able to predict different mental disorders from written texts that people have written about themselves and their general experience.
 
 # Description
+https://huggingface.co/reab5555/mentBERT   
+   
 This model is a finetuned BERT (bert-base-uncased) model that predict different mental disorders.   
 * It is trained on a costume dataset of texts or posts (from Reddit) about general experiences of users with mental health problems.   
 * Dataset was cleaned and all direct mentions of the disorder names in the texts were removed.     
